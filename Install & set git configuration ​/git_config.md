@@ -2,8 +2,10 @@
 
 ## Git ​Download &​ Installation
 
-- To Download Git - <a href="https://git-scm.com/download/win">Click Here</a>
+- To Download Git - [Click Here](https://git-scm.com/download/win)
 - Check git version - `git --version`
+
+![git_download_link](../images/git_install.png)
 
 ## Set Git Configuration (Globally for Local repo)
 
@@ -13,6 +15,6 @@
 4. Check user name​ - `git config user.name`
 5. Check user email - `git config user.email`
 
-``` markdownlint
+```markdownlint
 Note: To set configuration we must set the user name and email globally for local repositories.
 ```

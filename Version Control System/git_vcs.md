@@ -31,3 +31,5 @@ This is actually what we will do in this course.
 
 Alright, now you learned about the three types of version control systems.
 ```
+
+![Git as Distributed Version Control System](../images/distributed_vcs.png)

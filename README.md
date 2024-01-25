@@ -4,8 +4,8 @@ Welcome to the course.  In this course, you will learn the skills you need to us
 
 ## GitHub Instruction Module
 
-- Basic theory about git and GitHub
-- Git setup and configuration ​
+- Basic Info on Git & GitHub
+- Install & set git configuration ​
 - Git initialization, adding changes ​
 - How to perform push, and pull operations ​
 - How to connect remote and local repository ​

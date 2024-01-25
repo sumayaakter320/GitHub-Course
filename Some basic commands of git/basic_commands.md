@@ -1,5 +1,6 @@
 # Some basic commands of git
 
+- To see the imprtant commands of git all together - `git`
 - To know present working directory location - `pwd`
 - To change directory​ - `cd folder.name`
 - To go back previous directory​ - `cd ..`

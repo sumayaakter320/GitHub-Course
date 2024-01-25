@@ -14,5 +14,5 @@
 5. Check user email - `git config user.email`
 
 ``` markdownlint
-Note: To set configuration we must set the user name and email globally.
+Note: To set configuration we must set the user name and email globally for local repositories.
 ```

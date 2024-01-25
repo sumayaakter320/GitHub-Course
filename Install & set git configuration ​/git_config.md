@@ -1,4 +1,4 @@
-# Install & set git configuration
+# Install Git & set git configuration
 
 ## Git ​Download &​ Installation
 

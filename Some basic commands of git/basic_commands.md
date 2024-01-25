@@ -1,13 +1,16 @@
 # Some basic commands of git
 
 - To see the important commands of git all together - `git`
+- To check git version - `git --version` or `git -v`
 - To see all the commands related to config - `git config`
-- To get the configuration details - `git config -l` or `git config --list` or `git config -l --show-origin`
+- To get the configuration details -
+  - `git config -l` or
+  - `git config --list` or
+  - `git config -l --show-origin`
 - To set (or change) user name - `git config --global user.name "Sumaya Akter"`
 - To set (or change) user email - `git config --global user.email "sumaya55230@gmail.com"`
-- To set the git configuration​ - `git config –list
+- To set the git configuration​ - `git config –list`
 - To open this location on notepad through git commands - `notepad "notepad "C:/Users/sumay/.gitconfig"`
-
 - To know present working directory location - `pwd`
 - To change directory​ - `cd folder.name`
 - To go back previous directory​ - `cd ..`

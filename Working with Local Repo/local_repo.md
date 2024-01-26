@@ -22,13 +22,16 @@ branch name of GitHub is main. To rename the master branch - `git branch -m mast
 
 ## The three main areas
 
-![three main areas](../images/three_main_areas.png)
-
 1. Repository - a project with .git folder is called a repository
 2. Working Directory - besides the .git folder the project is known as the working directory
-3. Staging area - when the changes of the working directory are added to the .git folder, it is known as the staging area
+3. Staging area - when the changes of the working directory are added to the .git folder,
+   it is known as the staging area
 
-![Life-Cycle of a file](../images/lifeCycle-of-repos.png)
+<img align="left" width="55%" src="../images/three_main_areas.png" alt="three main areas">
+
+<img align="left" width="45%" src="../images/lifeCycle-of-repos.png" alt="lifeCycle of file">
+
+...
 
 ## Work with your repository
 

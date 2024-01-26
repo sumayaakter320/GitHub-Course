@@ -1,9 +1,5 @@
 # What are the snapshots?
 
-![snapshot 1](../images/snapshots_1.png)
-![snapshot 2](../images/snapshots_2.png)
-![snapshot 3](../images/snapshots_3.png)
-
 ``` markdownlint
 The term snapshots means a commit. But git does not store single-file differences with a commit. Instead, Git
 creates a snapshot of all your files, with every commit. Now important to know is that it creates a hash value 
@@ -14,4 +10,7 @@ useful when you look at the history of your code, and then you can see the state
 that commit.
 ```
 
+![snapshot 1](../images/snapshots_1.png)
+![snapshot 2](../images/snapshots_2.png)
+![snapshot 3](../images/snapshots_3.png)
 ![snapshot 4](../images/snapshots_4.png)

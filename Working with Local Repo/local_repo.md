@@ -43,5 +43,7 @@ branch name of GitHub is main. To rename the master branch - `git branch -m mast
     - And check the status of your project
     - `Note:` Follow these process to create the 2nd commit [or multiple commits]
     - To see all the differences of your working directory to the repository - `git diff`
+      - To check the differences to staging area `git diff --staged`
+      - You can also run this command to see the differences`git diff location/fileName`
 - Look at the history of your code
 - ignore files in the working directory

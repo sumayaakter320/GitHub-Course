@@ -11,7 +11,7 @@ Welcome to the course.  In this course, you will learn the skills you need to us
 - [Some basic commands of git](https://github.com/sumayaakter320/GitHub-Course/blob/main/Some%20basic%20commands%20of%20git/basic_commands.md)
 - [Working with Local Repo](https://github.com/sumayaakter320/GitHub-Course/blob/main/Working%20with%20Local%20Repo/local_repo.md)
 - [Git Snapshots](https://github.com/sumayaakter320/GitHub-Course/blob/main/Git%20Snapshots/snapshots.md)
-- [How to perform push, and pull operations]() ​
+- [Git Commit History](https://github.com/sumayaakter320/GitHub-Course/blob/main/History%20of%20commits/commit_history.md) ​
 - [How to connect remote and local repository]() ​
 - [Gitignore file]()
 - [Markdown]()

@@ -16,7 +16,7 @@ First, open git bash and to create a folder follow the following steps -
 4. Now, create a .git folder [which is known as initializing the empty git repository] - `git init`
     - The local repository is created. Now you can start coding in your repository.
 5. To know the status of your repository - `git status`
-   
+
 Note: If your project branch name is master then make sure to change it to main as you'll see the default
 branch name of GitHub is main. To rename the master branch - `git branch -m master main`
 

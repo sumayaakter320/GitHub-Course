@@ -1,0 +1,2 @@
+# Ignore compiled output [this will also ignore the files of sub root. If you want to ignore just the root file then type like this - ... ]
+*.txt

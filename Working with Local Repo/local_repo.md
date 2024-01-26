@@ -27,11 +27,8 @@ branch name of GitHub is main. To rename the master branch - `git branch -m mast
 3. Staging area - when the changes of the working directory are added to the .git folder,
    it is known as the staging area
 
-<img align="left" width="55%" src="../images/three_main_areas.png" alt="three main areas">
-
-<img align="left" width="45%" src="../images/lifeCycle-of-repos.png" alt="lifeCycle of file">
-
-...
+![three main areas](../images/three_main_areas.png)
+![lifeCycle of file](../images/lifeCycle-of-repos.png)
 
 ## Work with your repository
 

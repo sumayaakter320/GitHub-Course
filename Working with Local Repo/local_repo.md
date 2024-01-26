@@ -14,7 +14,7 @@ First, open git bash and to create a folder follow the following steps -
 2. Go to that created folder - `cd folderName`
 3. Open the folder in the explorer - `explorer .`
 4. Now, create a .git folder [which is known as initializing the empty git repository] - `git init`
-    - The local repository is created. Now you can start coding in your repository.
+   - The local repository is created. Now you can start coding in your repository.
 5. To know the status of your repository - `git status`
 
 Note: If your project branch name is master then make sure to change it to main as you'll see the default
@@ -22,7 +22,7 @@ branch name of GitHub is main. To rename the master branch - `git branch -m mast
 
 ## The three main areas
 
-``` markdownlint
+```markdownlint
 1. Repository - a project with .git folder is called a repository
 2. Working Directory - besides the .git folder the project is known as the working directory
 3. Staging area - when the changes of the working directory are added to the .git folder,
@@ -41,5 +41,7 @@ branch name of GitHub is main. To rename the master branch - `git branch -m mast
     - To add those content - `git add .` [Now again check the status and it will give the message that changes are to be committed]
     - Now make your first commit - `git commit -m "Commit message - This is my first commit`
     - And check the status of your project
+    - `Note:` Follow these process to create the 2nd commit [or multiple commits]
+    - To see all the differences of your working directory to the repository - `git diff`
 - Look at the history of your code
 - ignore files in the working directory

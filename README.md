@@ -13,12 +13,11 @@ Welcome to the course.  In this course, you will learn the skills you need to us
 - [Git Snapshots](https://github.com/sumayaakter320/GitHub-Course/blob/main/Git%20Snapshots/snapshots.md)
 - [Git Commit History](https://github.com/sumayaakter320/GitHub-Course/blob/main/History%20of%20commits/commit_history.md) ​
 - [Gitignore](https://github.com/sumayaakter320/GitHub-Course/blob/main/Git%20ignore/git_ignore.md)
+- [Branch & Marge](https://github.com/sumayaakter320/GitHub-Course/blob/main/Git%20branch%20%26%20marge/branch_marge.md)
 - [Working with Remote Repo](https://github.com/sumayaakter320/GitHub-Course/blob/main/Working%20with%20Remote%20Repo/remote_repo.md) ​
-- [Markdown]()
-- [Branching]()
-- [Merging]()​
+
 - [GitHub issues]()
-- [Merge – 2 way and 3 way]()
-- [How to resolve merge conflict on Git and GitHub]()
 - [How to contribute to the open-source project – fork, clone]()​
 - [How to collaborate on GitHub​]()
+- [Markdown]()
+- 

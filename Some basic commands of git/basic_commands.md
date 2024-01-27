@@ -14,7 +14,7 @@
 - To know present working directory location - `pwd`
 - To change directory​ - `cd folder.name`
 - To go back previous directory​ - `cd ..`
-- To see files & folders of working directory​ - `ls` or `ls –a`
+- To see files & folders of working directory​ - `ls` or `ls –a` or `dir`
 - To create a new folder - `mkdir folder_name`
 - To create a new file​ - `touch file_name`
 - To open a file - `start file.name`
